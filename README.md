@@ -1,5 +1,5 @@
-# 📄 Project Title:  
-**VBA-Based School Data Analysis and Reporting Tool**
+# VBA-Based School Data Analysis and Reporting Tool:  
+
 
 ##  Objective  
 To create an Excel application using VBA that helps in analyzing school data effectively. This tool will support users in viewing, searching, reporting, and converting important student or academic data into reports and insights.
