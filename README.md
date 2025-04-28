@@ -80,3 +80,16 @@ This project is a user-friendly application built into Microsoft Excel using Vis
 - Password protection for sensitive student data.
 - Drop-down filters for grade or subject.
 - Color-coded performance indicators (e.g., green for pass, red for fail).
+
+![BA-Based School Data Analysis](pic/1.png)
+
+![BA-Based School Data Analysis](pic/4.png)
+
+![BA-Based School Data Analysis](pic/5.png)
+
+![BA-Based School Data Analysis](pic/7.png)
+
+![BA-Based School Data Analysis](pic/9.png)
+
+![BA-Based School Data Analysis](pic/10.png)
+
